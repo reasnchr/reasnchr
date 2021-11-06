@@ -35,6 +35,9 @@ FRONTEND:<br />
 BACKEND:<br />
 ![PHP](https://img.shields.io/badge/PHP-555?logo=php&logoColor=B0B3D6&style=for-the-badge)
 ![NODEJS](https://img.shields.io/badge/NodeJS-555?logo=nodedotjs&logoColor=339933&style=for-the-badge)
+<br />
+<br />
+<a href="https://www.linkedin.com/in/chrisreasner/"><img src="https://raw.githubusercontent.com/reasnchr/reasnchr/main/linkedin.svg" width="30" /></a>
 
 
 
