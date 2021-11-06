@@ -1,9 +1,9 @@
 ### I'm Chris Reasner
 
 - Based in Orlando, FL. The City Beautiful!
-- Professional Engineer focused on IT Infrastructure (Network, Servers), Middleware, and Web Stack (Akamai CDN & WAF, HTTP Servers, and Middleware)
+- Experienced Engineer focused on IT Infrastructure (Network, Servers), Middleware, and Web Stack (Akamai CDN & WAF, HTTP Servers, and Middleware)
 - I enjoy learning all things technology
-- My OCD is so severe that if I'm involved in troubleshooting I cannot sleep until I've found the issue
+- Professional problem solver. I obsess over finding the resolution to technology issues.
 
 ### Infrastructure Experience
 OPERATING SYSTEMS:<br />
